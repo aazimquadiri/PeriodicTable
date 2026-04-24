@@ -10,7 +10,7 @@ An immersive, high-performance interactive Periodic Table built with vanilla web
 
 <div align="center">
   <a href="http://elements.plaxinfy.in/">
-    <img src="#" alt="Periodic Table Preview" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <img src="https://iili.io/B65NGft.png" alt="Periodic Table Preview" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
   </a>
   <p><i>Click the image above to experience the interactive 3D Periodic Table.</i></p>
 </div>
